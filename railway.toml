@@ -1,0 +1,8 @@
+[build]
+image = "python:3.10-slim"
+
+[build.steps]
+"install-deps" = "pip install -r requirements.txt"
+
+[deploy]
+startCommand = "python main/bot.py"
