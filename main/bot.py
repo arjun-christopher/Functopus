@@ -172,7 +172,7 @@ async def main():
                 "• Classic Hangman\n"
                 "• Never Have I Ever\n\n"
                 "🤖 **AI Chat**\n"
-                "• Ask me anything (`!ask`)\n\n"
+                "• Ask me anything\n\n"
                 "😄 **Fun Activities**\n"
                 "• Random Memes\n"
                 "• Compliments\n"
