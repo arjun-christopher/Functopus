@@ -79,14 +79,7 @@ Functopus is a multi-functional Discord bot built with Python using the `discord
     ```
 
 4.  **Set up Environment Variables:**
-    *   Copy the `.env.example` file to a new file named `.env` in the project root.
-        ```bash
-        # On Windows
-        copy .env.example .env
-        # On macOS/Linux
-        # cp .env.example .env
-        ```
-    *   Open the `.env` file and add your Discord Bot Token and Gemini API Key:
+    *   Create the `.env` file and add your Discord Bot Token and Gemini API Key:
         ```
         DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
         GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE  # For AI chat feature
