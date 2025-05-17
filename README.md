@@ -1,6 +1,8 @@
 # Functopus - Your Fun Discord Bot
 
-![Bot Icon](media/Functopus%20Icon.png)
+<p align="center">
+  <img src="media/Functopus%20Icon.png" alt="Bot Icon">
+</p>
 
 Functopus is a multi-functional Discord bot built with Python using the `discord.py` library. This friendly bot brings games, AI chat, and utility commands to your server, making it more engaging and fun!
 
