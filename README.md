@@ -1,4 +1,4 @@
-# Functopus - Your Fun Discord Bot
+# Functopus - Fun Discord Bot
 
 <p align="center">
   <img src="media/Functopus%20Icon.png" alt="Bot Icon" width="200">
